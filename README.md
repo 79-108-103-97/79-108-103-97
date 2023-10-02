@@ -8,7 +8,7 @@
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/olgasema" target="_blank">
-<img src=https://img.shields.io/badge/-Telegram-blue?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Telegram-blue?&style=for-the-badge&logo=Telegram&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:o.a.semenova11@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/-Gmail-red?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
