@@ -4,6 +4,7 @@
 ### Languages & Tools:
 
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=47C5FB)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux&logoColor=47C5FB)
 ![html5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
 ![css3](https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=7acef4)
 ![Sass](https://img.shields.io/badge/-SCSS/SASS-090909?style=for-the-badge&logo=sass)
@@ -14,6 +15,8 @@
 ![npm](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm)
 ![Php](https://img.shields.io/badge/-Php-090909?style=for-the-badge&logo=Php)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=79-108-103-97&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/olgasema)
