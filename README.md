@@ -15,6 +15,7 @@
 ![npm](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm)
 ![Php](https://img.shields.io/badge/-Php-090909?style=for-the-badge&logo=Php)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
+![Bem](https://img.shields.io/badge/-Bem-090909?style=for-the-badge&logo=Bem)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=79-108-103-97&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
