@@ -12,9 +12,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jQuery&logoColor=7acef4)
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp)
 ![npm](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm)
-
 ![Php](https://img.shields.io/badge/-Php-090909?style=for-the-badge&logo=Php)
-
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 
 ### Socials:
